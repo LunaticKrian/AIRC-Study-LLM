@@ -96,8 +96,8 @@ print(outputs)
 
 **大模型生成配置参数：**
 
-- `num_return_sequences` ：
-- 
+- `max_length` ：输出Token长度
+- `num_return_sequences` ：输出文本段数
 
 
 

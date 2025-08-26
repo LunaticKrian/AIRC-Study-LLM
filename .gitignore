@@ -1,4 +1,7 @@
 .idea
 
 # 移除本地模型文件目录
-01-API-HuggingFace/model
+**/model
+
+# 移除本地数据集文件目录
+**/dataset
